@@ -1,7 +1,0 @@
-description: ''
-name: x0r
-pattern: (?<=^|[\s.-])x0r\b
-tags:
-- Release Group
-- Bluray
-tests: []

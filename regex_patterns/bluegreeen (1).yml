@@ -1,7 +1,0 @@
-description: ''
-name: bluegreeen
-pattern: (?<=^|[\s.-])bluegreeen\b
-tags:
-- Release Group
-- Bluray
-tests: []

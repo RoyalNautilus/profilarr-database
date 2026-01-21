@@ -1,7 +1,0 @@
-description: Matches "ATELiER" when preceded by whitespace, a hyphen or dot
-name: ATELiER
-pattern: (?<=^|[\s.-])ATELiER\b
-tags:
-- Release Group
-- Bluray
-tests: []

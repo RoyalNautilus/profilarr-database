@@ -1,7 +1,0 @@
-description: ''
-name: BTM
-pattern: (?<=^|[\s.-])(BEN THE MEN|BEN|BTM)\b
-tags:
-- Release Group
-- WEB-DL
-tests: []

@@ -1,7 +1,0 @@
-description: ''
-name: HODL
-pattern: (?<=^|[\s.-])HODL\b
-tags:
-- Release Group
-- WEB-DL
-tests: []

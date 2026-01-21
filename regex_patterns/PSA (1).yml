@@ -1,7 +1,0 @@
-description: ''
-name: PSA
-pattern: (?<=^|[\s.-])PSA\b
-tags:
-- Release Group
-- WEB-DL
-tests: []

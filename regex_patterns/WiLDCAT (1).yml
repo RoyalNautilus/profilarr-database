@@ -1,7 +1,0 @@
-description: ''
-name: WiLDCAT
-pattern: (?<=^|[\s.-])WiLDCAT\b
-tags:
-- Release Group
-- Remux
-tests: []
