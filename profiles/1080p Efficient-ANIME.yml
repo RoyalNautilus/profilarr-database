@@ -1,4 +1,4 @@
-name: 1080p Efficient
+name: 1080p Efficient-ANIME
 description: '1080p Efficient targets high quality x265 Bluray and WEB Encodes
 
 
@@ -335,4 +335,4 @@ upgrade_until:
   description: Balanced Capable releases. Typically WEB-DL would be the overwhelming
     majority of releases, but there are occasional streaming optimised encodes that
     should be preferred.
-language: must_original
+language: must_english
