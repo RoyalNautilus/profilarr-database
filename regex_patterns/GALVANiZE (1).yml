@@ -1,0 +1,7 @@
+description: ''
+name: GALVANiZE
+pattern: (?<=^|[\s.-])GALVANiZE\b
+tags:
+- Release Group
+- Bluray
+tests: []

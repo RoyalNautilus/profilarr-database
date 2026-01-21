@@ -1,0 +1,7 @@
+description: ''
+name: j3rico
+pattern: (?<=^|[\s.-])j3rico\b
+tags:
+- Release Group
+- Bluray
+tests: []

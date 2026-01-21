@@ -1,0 +1,31 @@
+conditions:
+- name: 1080p
+  negate: false
+  required: true
+  resolution: 1080p
+  type: resolution
+- name: HDTV
+  negate: false
+  required: true
+  source: television
+  type: source
+- name: CtrlHD
+  negate: false
+  pattern: CtrlHD
+  required: false
+  type: release_group
+- name: EDPH
+  negate: false
+  pattern: EDPH
+  required: false
+  type: release_group
+- name: NTb
+  negate: false
+  pattern: NTb
+  required: false
+  type: release_group
+description: Matches 1080p HDTV.
+name: 1080p HDTV Tier 1
+tags:
+- Release Group Tier
+tests: []

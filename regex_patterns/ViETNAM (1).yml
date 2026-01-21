@@ -1,0 +1,7 @@
+description: ''
+name: ViETNAM
+pattern: (?<=^|[\s.-])ViETNAM\b
+tags:
+- Release Group
+- HDTV
+tests: []

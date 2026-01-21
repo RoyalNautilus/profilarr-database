@@ -1,0 +1,7 @@
+description: ''
+name: playSD
+pattern: (?<=^|[\s.-])playSD\b
+tags:
+- Release Group
+- Bluray
+tests: []

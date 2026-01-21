@@ -1,0 +1,7 @@
+description: ''
+name: PuTao
+pattern: (?<=^|[\s.-])PuTao\b
+tags:
+- Release Group
+- Bluray
+tests: []

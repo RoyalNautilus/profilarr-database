@@ -1,0 +1,7 @@
+description: ''
+name: noxxus
+pattern: (?<=^|[\s.-])noxxus\b
+tags:
+- Release Group
+- Bluray
+tests: []
